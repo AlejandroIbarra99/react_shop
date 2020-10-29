@@ -1,6 +1,5 @@
-import { render } from '@testing-library/react';
 import React from 'react';
-import SHOP_DATA from './shop.data.js'; 
+import SHOP_DATA from './shop.data.js';
 
 import CollectionPreview from  '../../components/collections-preview/collection-preview';
 
